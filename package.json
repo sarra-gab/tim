@@ -1,0 +1,19 @@
+{
+  "name": "timms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarra-gab/timms.git"
+  },
+  "author": "sarra gabbassi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarra-gab/timms/issues"
+  },
+  "homepage": "https://github.com/sarra-gab/timms#readme"
+}
